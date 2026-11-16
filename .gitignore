@@ -1,0 +1,16 @@
+# Visual Studio & Compiler Outputs
+*.obj
+*.exp
+*.lib.exp
+*.old
+*.tmp
+*.log
+.vs/
+x64/
+Debug/
+Release/
+
+# OS Artifacts
+Thumbs.db
+Desktop.ini
+.DS_Store
